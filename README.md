@@ -6,7 +6,7 @@ marketing agency
 - **[Sohaila Yasser]**
 - **[Marina Salib Awad]**
 - **[Malak Ahmed Mohammed]**
-- **[Shrouk Eid]**
+- **[Shrouk Eid Kamel]**
 - **[Veronia Samir Baset]**
 ---
 ## Instructor
