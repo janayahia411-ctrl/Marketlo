@@ -84,11 +84,7 @@ Building trust by creating relatable content that connects with the audience's e
 
  Explaining marketing ideas through engaging stories and real-world scenarios.
 
----
 
-## 📈 Data-Driven Marketing & Copywriting
-
-Showcasing marketing strategies and content backed by analytics, strong copywriting, and measurable results.
 ---
 
 ## ✍️ Directing & Commercial CTA Content
@@ -99,7 +95,7 @@ Demonstrating how strategic content and branding can transform businesses throug
 
 • Strong CTA omnipresense
 
-• Performance Results.
+• Performance Results
 ---
 
 # 🎬 CONTENT PLAN
