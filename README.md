@@ -177,14 +177,16 @@ Showing how brands can improve through better:
 
 ### Achievement #1
 
-!(image.png) [<img width="576" height="1280" alt="photo_2026-07-10_12-23-19" src="https://github.com/user-attachments/assets/72a614c2-6313-4066-9d92-82e1a73ba06a" />
+(image.png) [<img width="576" height="1280" alt="photo_2026-07-10_12-23-19" src="https://github.com/user-attachments/assets/72a614c2-6313-4066-9d92-82e1a73ba06a" />
 ]
 
 ---
 
 ### Achievement #2
 
-!]Achievement 2](YOUR_IMAGE_LINK_HERE)
+!(image.png) [<img width="1280" height="720" alt="photo_2026-07-10_13-05-50" src="https://github.com/user-attachments/assets/53da4b32-99ca-4d7e-b3d0-7c6d44584d6d" />
+]
+
 
 ---
 
