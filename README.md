@@ -250,7 +250,7 @@ https://www.tiktok.com/@marketlo2
 ---
 
 # 📂 PROJECT DOCUMENTATION
-[![All about our project](assets/cover-image.png)](file:///D:/All%20about%20our%20project.pdf.pdf)file:///D:/All%20about%20our%20project.pdf
+ [All about our project in PDF](https://file:///D:/All%20about%20our%20project.pdf)
 
 https://drive.google.com/drive/folders/1ZI7NVQaIZe7y3h9quupvSHBMzphNUH6z
 
