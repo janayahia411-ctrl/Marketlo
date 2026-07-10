@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🚀 MARKETLO
+# <img width="1280" height="1265" alt="photo_2026-07-10_13-18-47" src="https://github.com/user-attachments/assets/20c10fe8-651a-4df2-835f-a1b1f1419295" />
+>
 
 ### Turning Ideas Into Impact
 
@@ -63,7 +64,7 @@ At Marketlo, we are committed to:
 
 ### Age Range
 
-21 - 55 Years
+21 -48 Years
 
 ---
 
