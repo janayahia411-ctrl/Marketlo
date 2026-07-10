@@ -63,7 +63,7 @@ At Marketlo, we are committed to:
 
 ### Age Range
 
-18 - 48 Years
+21 - 55 Years
 
 ---
 
