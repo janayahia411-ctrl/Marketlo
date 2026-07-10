@@ -161,11 +161,11 @@ Showing how brands can improve through better:
 
 ### Color Palette
 
-🟠 Orange → Creativity & Energy
+ Navy Blue → Creativity & trust
 
-🔵 Navy Blue → Trust & Professionalism
+ Pink → Creativity and energy
 
-⚪ White → Simplicity & Clarity
+ White → Showing off colors
 
 ---
 
